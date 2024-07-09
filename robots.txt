@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olomanse.github.io/sitemap
+Sitemap: https://olomanse.github.io/app/sitemap
+Sitemap: https://olomanse.github.io/assets/sitemap
+Sitemap: https://olomanse.github.io/css/sitemap
+Sitemap: https://olomanse.github.io/includes/sitemap
+Sitemap: https://olomanse.github.io/item/sitemap
+Sitemap: https://olomanse.github.io/src/sitemap
